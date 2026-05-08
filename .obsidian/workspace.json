@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "obsidian documentation/AI WORKFLOW.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "README"
+              "title": "AI WORKFLOW"
             }
           }
         ]
@@ -156,13 +156,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "README.md",
+                "file": "obsidian documentation/AI WORKFLOW.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of README"
+              "title": "Outline of AI WORKFLOW"
             }
           }
         ],
@@ -180,11 +180,19 @@
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "bases:Create new base": false
+      "bases:Create new base": false,
+      "obsidian-kanban:Create new board": false
     }
   },
   "active": "7ef98a7aeb3bfb4e",
   "lastOpenFiles": [
+    "obsidian documentation/assets/02-learnig-within-the project.svg.crswap",
+    "obsidian documentation/assets/02-learnig-within-the project.svg",
+    "obsidian documentation/Kanban.md",
+    "Untitled.base",
+    "README.md",
+    "obsidian documentation/assets/01-ai-flow.svg.crswap",
+    "obsidian documentation/assets/01-ai-flow.svg",
     "CLAUDE.md",
     "obsidian documentation/assets/01-AI flow.png",
     "obsidian documentation/assets",
@@ -195,8 +203,6 @@
     "documentation",
     "ARCHITECTURE.md",
     "WORKS WITH COLOURS.md",
-    "README.md",
-    "Untitled.base",
     "Untitled 1.base"
   ]
 }
