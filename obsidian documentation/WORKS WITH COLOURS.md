@@ -1,4 +1,4 @@
-# WORKS WITH COLOURS
+# 1. WORKS WITH COLOURS
 
 Managing colors and giving them logical names is essential in UI design to create a "shared language" between designers and developers. Below are the points in consider:
 
@@ -10,13 +10,18 @@ Managing colors and giving them logical names is essential in UI design to creat
 
 **Scalability:** Moving from descriptive names to a `numbered ramp` (e.g., 100-900) is better for large projects with many color variations.
 
-![naming-example](/obsidian%20documentation/assets/03-colour-namig.png)
 
-### 1. Keep the Name Simple 🎨
+On the right-hand side of the working space, you will see the colour tool:
 
-** Use `concise names`. For instance, if you have just one shade of blue, red, and green, simply call them "blue," "red," and "green."
+![colour-tool](./assets/colour.svg)
 
-### 2. Naming Hue Variations 🎨
+## 1.1 Keep the Name Simple 🎨
+
+** Use `concise names`. For instance, if you have just one shade of blue, red, and yellow.
+
+![simple-colour](./assets/simple-colour.svg)
+
+## 1.2 Naming Hue Variations 🎨
 
 When you have shades that fall between primary colors, use a two-part naming convention:
 
@@ -26,19 +31,33 @@ The first part is the closest neighboring color (e.g., Purple).
 
 Example: "Purple Pink."
 
-### 3. Naming Lightness and Saturation 🎨
+![colour-hur](./assets/hue-colour.svg)
 
-Lightness: Use terms like "Light," "Lighter," "Lightest," "Dark," "Darker," or "Darkest." If you have more than six variations, use numbers (e.g., Blue 100, Blue 200).
+## 1.3 Naming Lightness and Saturation 🎨
+
+Lightness: Use terms like "Light," "Lighter," "Lightest," "Dark," "Darker," or "Darkest." If you have more than six variations, use numbers (e.g., Blue 10, Blue 20).
+
+![colour-lightness](./assets/lightness.svg)
+
+## 1.4 Naming Saturation 🎨
+
+Use descriptive terms like "Muted," "Vivid.
+
+![saturation-colour](./assets/saturation.svg)
 
 
-### 4. Naming The "Off" Concept 🎨
+## 1.5 Naming The "Off" Concept 🎨
 For colors that aren't quite pure, use the term "Off":
 
 Off-Black: A black that is slightly lighter.
 
 Off-White: A white with a slight tint of another color.
 
-### 4. Naming Saturation 🎨
+![off-concept](./assets/off-conept.svg)
 
-Use descriptive terms like "Muted," "Vivid," "Soft," or "Strong."
 
+---
+
+# 2.PICK UI COLOURS
+
+Now that I learn about naming colour without making other people confuse. It's also important to know how to work with them.
