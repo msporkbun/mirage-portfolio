@@ -25,17 +25,17 @@ On the right-hand side of the working space, you will see the colour tool:
 
 When you have shades that fall between primary colors, use a two-part naming convention:
 
-The second part is the main color (e.g., Pink).
+The second part is the main color (e.g., Yellow).
 
-The first part is the closest neighboring color (e.g., Purple).
+The first part is the closest neighboring color (e.g., Green).
 
-Example: "Purple Pink."
+Example: "Yellow Green"
 
 ![colour-hur](./assets/hue-colour.svg)
 
 ## 1.3 Naming Lightness and Saturation 🎨
 
-Lightness: Use terms like "Light," "Lighter," "Lightest," "Dark," "Darker," or "Darkest." If you have more than six variations, use numbers (e.g., Blue 10, Blue 20).
+Lightness: Use terms like "Light," "Lighter," "Lightest," "Dark," "Darker," or "Darkest." or use numbers (e.g. blue 10, blue 20).
 
 ![colour-lightness](./assets/lightness.svg)
 
@@ -61,3 +61,8 @@ Off-White: A white with a slight tint of another color.
 # 2.PICK UI COLOURS
 
 Now that I learn about naming colour without making other people confuse. It's also important to know how to work with them.
+
+First of all, **STOP** playing with colour, instead pick something that **MATTER** such as *neutral, primary, accent, semantic* then you just playing with lightness and shade.
+
+![colour-palette](./assets/colour-palette.svg)
+
