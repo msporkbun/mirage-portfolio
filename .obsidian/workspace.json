@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "obsidian documentation/AI WORKFLOW.md",
+                "file": "obsidian documentation/WORKS WITH COLOURS.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "AI WORKFLOW"
+              "title": "WORKS WITH COLOURS"
             }
           }
         ]
@@ -156,13 +156,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "obsidian documentation/AI WORKFLOW.md",
+                "file": "obsidian documentation/WORKS WITH COLOURS.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of AI WORKFLOW"
+              "title": "Outline of WORKS WITH COLOURS"
             }
           }
         ],
@@ -184,8 +184,15 @@
       "obsidian-kanban:Create new board": false
     }
   },
-  "active": "1b47b75866197fbc",
+  "active": "7ef98a7aeb3bfb4e",
   "lastOpenFiles": [
+    "obsidian documentation/assets/shadowlightness.svg",
+    "obsidian documentation/assets/hsl-lightness.svg.crswap",
+    "obsidian documentation/assets/hsl-lightness.svg",
+    "obsidian documentation/AI WORKFLOW.md",
+    "obsidian documentation/assets/hsl-explaination.svg.crswap",
+    "obsidian documentation/assets/hsl-explaination.svg",
+    "obsidian documentation/assets/color-wheel.svg",
     "obsidian documentation/assets/colour-palette.svg.crswap",
     "obsidian documentation/assets/colour-palette.svg",
     "obsidian documentation/assets/board.svg",
@@ -194,11 +201,8 @@
     "obsidian documentation/assets/saturation.svg",
     "obsidian documentation/assets/lightness.svg",
     "obsidian documentation/assets/simple-colour.svg",
-    "obsidian documentation/assets/colour.svg",
     "obsidian documentation/assets/hue-colour.svg.crswap",
-    "obsidian documentation/assets/hue-colour.svg",
     "obsidian documentation/assets/Untitled-2026-05-07-1434.svg.crswap",
-    "obsidian documentation/assets/Untitled-2026-05-07-1434.svg",
     "obsidian documentation/assets/02-learnig-within-the project.svg.crswap",
     "obsidian documentation/Kanban.md",
     "Untitled.base",
@@ -208,11 +212,8 @@
     "obsidian documentation/assets",
     "obsidian documentation/WORKS WITH COLOURS.md",
     "AI WORKFLOW.md",
-    "obsidian documentation/AI WORKFLOW.md",
     "obsidian documentation",
-    "documentation",
     "ARCHITECTURE.md",
-    "WORKS WITH COLOURS.md",
-    "Untitled 1.base"
+    "WORKS WITH COLOURS.md"
   ]
 }
